@@ -1,12 +1,18 @@
-## Welcome to GitHub Pages
+## Fall 2018, Introduction to MAGD projects
 
+### Project 01:
 You can use the [editor on GitHub](https://github.com/DylanGriep/f18_MAGD_Projects/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Project 02:
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Project 03:
+
+### Project 05:
+
+### Project 08:
 
 ```markdown
 Syntax highlighted code block
