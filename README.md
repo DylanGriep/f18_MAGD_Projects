@@ -1,43 +1,22 @@
 ## Fall 2018, Introduction to MAGD projects
 
-### Project 01:
-You can use the [editor on GitHub](https://github.com/DylanGriep/f18_MAGD_Projects/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Project 01:
+This was the first project where the main focus was to understand how Processing works and specifically how to draw with shapes.
+[Link to project](https://github.com/DylanGriep/f18_MAGD_Projects/tree/master/f18magd150lab01_griep)
 
 ### Project 02:
+For the second project, the main objective was to understand adding colors worked in Processing.
+[Link to project](https://github.com/DylanGriep/f18_MAGD_Projects/tree/master/f18magd150lab02_griep)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 ### Project 03:
+Projects main objective was to understand how to send messages to console.
+[Link to project](https://github.com/DylanGriep/f18_MAGD_Projects/tree/master/f18magd150lab03_griep)
 
 ### Project 05:
+Main objective was to render in usable buttons such as rectangle/circles
+[Link to project](https://github.com/DylanGriep/f18_MAGD_Projects/tree/master/f18magd150lab05_griep)
 
 ### Project 08:
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DylanGriep/f18_MAGD_Projects/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+With this project, it gave a better understanding of libraries and how to take a snapshot of the window
+[Link to project](https://github.com/DylanGriep/f18_MAGD_Projects/tree/master/f18magd150lab08_griep)
